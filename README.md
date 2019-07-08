@@ -11,6 +11,8 @@ or Download Zip
 ### Installation
 :two: 
 ```
+import the db_chat.sql database file into your local database
+
 cd client
 npm install or yarn install
 and
