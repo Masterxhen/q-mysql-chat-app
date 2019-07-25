@@ -26,6 +26,13 @@ cd client
 quasar dev
 ```
 
+### To run the server
+```
+cd server
+node server.js or 
+nodemon server.js (install nodemon globally: npm install -g nodemon)
+```
+
 ### Compiles and minifies for production
 ```
 cd client
